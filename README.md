@@ -1,7 +1,6 @@
 # module7-database-project
 
 **Name:** Blessing Aganaga
-**Operating System:** macOS
 
 ## Initial Data Source
 
